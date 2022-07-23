@@ -1,0 +1,36 @@
+body{
+    display: block;
+    background: url(Starrysky.png);
+    background-size:contain;
+    font-family: 'Edu QLD Beginner', cursive;
+    margin-left: 220px;
+    
+}
+audio{
+    float: left;
+    
+}
+h1{
+    color:rgb(244, 174, 45);
+    font-size: 50px;
+}
+span{
+    color: rgb(244, 206, 135);
+}
+.sidebar{
+    background-color: white;
+    position:fixed;
+    z-index: 1;
+    height: 100%;
+    top:0;
+    left: 0;
+    display: block;
+    width: 200px;
+    background-color: rgb(236, 232, 225);
+    
+}
+.sidebar-item{
+    padding:5px 0px 0px 5px;
+    font-size: 20px;
+
+}
